@@ -28,7 +28,7 @@ The dataset for this challenge can be downloaded from [this link](https://drive.
 | 8     | L Fibula   |
 
 
-### Numver of Participants
+### Number of Participants
 5 students ina group
 
 ### Mentor

@@ -28,6 +28,15 @@ The dataset for this challenge can be downloaded from [this link](https://drive.
 | 8     | L Fibula   |
 
 
+### Numver of Participants
+5 students ina group
+
+### Mentor
+Ahmad P. Tafti, PhD, FAMIA
+
+### Regular In-Person Meetings
+Wednesdays, 3-4pm EDT
+
 ### Computational Tasks
 1. Generate a training, validation, and test set for this dataset.
 2. Train a deep learning segmentation model using PyTorch, while the model is accurate, unbiased, and also explainable.

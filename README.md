@@ -29,7 +29,7 @@ The dataset for this challenge can be downloaded from [this link](https://drive.
 
 
 ### Number of Participants
-5 students ina group
+5 students in a group
 
 ### Mentor
 Ahmad P. Tafti, PhD, FAMIA
